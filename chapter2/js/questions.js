@@ -108,7 +108,7 @@ let questions = [
       {
  numb: 10,
  question: "The liability of a sole trader is ………",
- answer: "",
+ answer: "Unlimited",
  options: [
     "Unlimited",
     "limited",
